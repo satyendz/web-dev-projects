@@ -1,2 +1,2 @@
 # web-dev-projects
-i keep my web development projects here
+i keep my web projects here
